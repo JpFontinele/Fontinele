@@ -10,6 +10,13 @@ Sou um estudante de Ciência da Computação na Universidade Federal Fluminense 
   <img align="center" alt="Font-Java height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Font-Dart" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatako&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas de Linguagens mais Usadas">
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=Yatako&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yatako&theme=dark&hide_border=true)<br/>
+
             
           
 </div>

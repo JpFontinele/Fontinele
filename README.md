@@ -11,17 +11,15 @@ Sou um estudante de Ciência da Computação na Universidade Federal Fluminense 
   <img align="center" alt="Font-Dart" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatako&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas de Linguagens mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpFontinele&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas de Linguagens mais Usadas">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yatako&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="45%" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yatako&theme=dark&hide_border=true" width="45%" alt="Estatísticas de Sequência do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=JpFontinele&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="45%" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JpFontinele&theme=dark&hide_border=true" width="45%" alt="Estatísticas de Sequência do GitHub">
 </p>
 
 
             
           
 </div>
-
-

@@ -3,11 +3,15 @@
 Sou um estudante de Ciência da Computação na Universidade Federal Fluminense interessado nas áreas de cibersegurança e desenvolvimento de software. Estou buscando aprimorar minhas habilidades em programação e solução de problemas complexos, e tenho consciência da importância da segurança cibernética na proteção de informações valiosas. Meu objetivo é seguir uma carreira em tecnologia da informação e contribuir para o desenvolvimento de soluções inovadoras e seguras para empresas e usuários finais.
 
 
-📱 Atualmente, estou estagiando na STI-UFF, onde tenho a oportunidade de trabalhar com desenvolvimento móvel, utilizando as seguintes linguagens de programação.
+📱 Atualmente, estou estagiando na STI-UFF, onde tenho a oportunidade de trabalhar com desenvolvimento móvel, utilizando as seguintes linguagens de programação e tecnologias.
   <div style="display: inline_block"><br> 
   <img align="center" alt="Font-Dart" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Font-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" /><br>
+  <img align="center" alt="Font-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+     <img align="center" alt="Font-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /><br>
   <br>
+  
+      
+          
   
 🖥️ Também possuo experiencia com as seguintes linguaguens.
 
